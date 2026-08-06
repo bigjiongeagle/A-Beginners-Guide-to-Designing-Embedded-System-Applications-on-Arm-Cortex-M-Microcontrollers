@@ -1,6 +1,8 @@
 ## A Beginner's-Guide-to-Designing-Embedded-System-Applications-on-Arm-Cortex-M-Microcontrollers
 
-## Important
+> This repository is archived and no longer actively maintained.
+> As Arm is no longer maintaining Mbed, this repository is retained for reference only.
+
 ### To download the latest stable version, please click below instead of using the "Download ZIP" button.
 ### [Click here to download](https://github.com/arm-university/A-Beginners-Guide-to-Designing-Embedded-System-Applications-on-Arm-Cortex-M-Microcontrollers/releases/download/v2.0.0/A-Beginners-Guide-to-Designing-Embedded-System-Applications-on-Arm-Cortex-M-Microcontrollers-main.zip)
 
